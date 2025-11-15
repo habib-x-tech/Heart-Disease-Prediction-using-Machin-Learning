@@ -1,6 +1,3 @@
-# Heart-Disease-Prediction-using-Machin-Learning
-End-to-end heart disease prediction system using Logistic Regression, feature scaling, and user input inference.
-
 # ❤️ Heart Disease Prediction Using Machine Learning  
 A simple and beginner-friendly Machine Learning project that predicts the risk of heart disease based on user-provided medical parameters.  
 The model uses **Logistic Regression**, and the system runs entirely on Python.
